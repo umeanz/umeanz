@@ -1,5 +1,5 @@
-Thank u for visiting 👋
-
+##Thank u for visiting 👋
+------------------------
 <!--
 **umeanz/umeanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
