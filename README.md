@@ -1,6 +1,11 @@
-##Thank u for visiting 👋
+##Hi there I'm Min 👋
 ------------------------
-I am a eger to be developer. My back ground is Mechanical Eng and now studying for Mechatronics. To be robotics Eng, I eager to learn coding. 
+I am a eger to be developer. My back ground is Mechanical Eng and now studying for Mechatronics. To be robotics Eng, I eager to learn coding. through the coding, I hope to contribute to make a better world than yester day. 
+------------------------
+```
+##What I interesting
+![HTML5](https://img.shields.io/badge/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+```
 <!--
 **umeanz/umeanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
