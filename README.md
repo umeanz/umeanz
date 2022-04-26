@@ -5,7 +5,7 @@ I am a eger to be developer. My back ground is Mechanical Eng and now studying f
 
 ##What I interesting<br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logocolor=ffffff)<br/>
-![CSS3](https://img.shields.io/static/v1?CSS3=appveyor)
+![CSS3](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
 
 <!--
 **umeanz/umeanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
