@@ -6,7 +6,8 @@ I am a eger to be developer. My back ground is Mechanical Eng and now studying f
 ##What I interesting<br/>
 ![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
 ![CSS3](
-![JavaScript](https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png)
+![JavaScript]
+![NODE.JS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 <!--
 **umeanz/umeanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
