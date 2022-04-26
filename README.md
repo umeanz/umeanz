@@ -1,5 +1,6 @@
 ##Thank u for visiting 👋
 ------------------------
+I am a eger to be developer. My back ground is Mechanical Eng and now studying for Mechatronics. To be robotics Eng, I eager to learn coding. 
 <!--
 **umeanz/umeanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
