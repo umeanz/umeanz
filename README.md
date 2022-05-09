@@ -1,6 +1,6 @@
 ##Hi there I'm Min 👋
 ------------------------
-I am a eger to be developer. My back ground is Mechanical Eng and now studying for Mechatronics. To be robotics Eng, I eager to learn coding. through the coding, I hope to contribute to make a better world than yester day. 
+I am eager to become developer. My back ground is Mechanical Eng and now studying for Mechatronics. Through the coding, I hope to contribute to make a better world than yester day. 
 ------------------------
 
 ##What I interesting<br/>
